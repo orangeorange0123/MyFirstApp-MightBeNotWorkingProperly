@@ -1,2 +1,2 @@
 # MyFirstApp-MightBeNotWorkingProperly
-This is my first app ever. It might be not working properly and development might be slow because i am eleven years old and i havent got anyone to help me with programming.
+This is my first app ever. It might be not working properly and development might be slow because i am eleven years old and i haven`t got anyone to help me with programming. At least yet. Hope you enjoy it, please report any bugs you find and i will try to patch them soon. And also leave feedback to kick me on to learning more programming or post any ideas you have to make my first app better. When the bug you reported or yours idea gets into the app, you will be mentioned in the "Special Thanks to" category.
